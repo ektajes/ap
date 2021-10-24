@@ -1,0 +1,164 @@
+{
+  "posts": [
+    {
+      "LastName": "jeswani",
+      "FirstName": "ekta",
+      "EmailId": "ekta4994@gmail.com",
+      "Password": "kjkl890",
+      "id": 1
+    },
+    {
+      "LastName": "dlkfl",
+      "FirstName": "smdjk",
+      "EmailId": "ekta49994@gmail.com",
+      "Password": "mskD",
+      "id": 2
+    },
+    {
+      "LastName": "fdfd",
+      "FirstName": "yual",
+      "EmailId": "edkta4994@gmail.com",
+      "Password": "fddsg",
+      "id": 3
+    },
+    {
+      "LastName": "cxfd",
+      "FirstName": "fgf",
+      "EmailId": "ektad4994@gmail.com",
+      "Password": "xzdsd",
+      "id": 4
+    },
+    {
+      "LastName": "dff",
+      "FirstName": "sdf",
+      "EmailId": "ekta49994@gmail.com",
+      "Password": "dt56",
+      "id": 5
+    },
+    {
+      "LastName": "jeswani",
+      "FirstName": "ekta",
+      "EmailId": "ekta4994@gmail.com",
+      "Password": "jlukluli789",
+      "id": 6
+    },
+    {
+      "LastName": "rytu",
+      "FirstName": "rytu",
+      "EmailId": "w64r",
+      "Password": "aete",
+      "id": 7
+    },
+    {
+      "LastName": "rtjlrj",
+      "FirstName": "jkjklj",
+      "EmailId": "jeljrlej@gmail.com",
+      "Password": "arr33",
+      "id": 8
+    },
+    {
+      "LastName": "Kunar",
+      "FirstName": "Raj",
+      "EmailId": "rkun@gmail.com",
+      "Password": "rkun",
+      "id": 9
+    },
+    {
+      "LastName": "ewrewt",
+      "FirstName": "dyrt",
+      "EmailId": "asrwW@gmail.com",
+      "Password": "asFR",
+      "id": 10
+    },
+    {
+      "LastName": "Shiva",
+      "FirstName": "Rahul",
+      "EmailId": "rshiva@gmail.com",
+      "Password": "rshiva",
+      "id": 11
+    },
+    {
+      "LastName": "jessu",
+      "FirstName": "ekku",
+      "EmailId": "ejesu@gmail.com",
+      "Password": "ejesu",
+      "id": 12
+    },
+    {
+      "LastName": "jeswani",
+      "FirstName": "ekta",
+      "EmailId": "ekta4994@gmail.com",
+      "Password": "1234",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "post": [
+    {
+      "Title": "Course Angularbbb",
+      "Full_Desc": " m",
+      "Sort_Desc": "kdsjflhdsjhfd,hg",
+      "Author": "shafg",
+      "EnteredDate": "2021/09/20",
+      "id": 1
+    },
+    {
+      "Title": "React",
+      "Image": "20210922_102220.jpg",
+      "Full_Desc": "bsjhdjkhasjkhdjkdash",
+      "Sort_Desc": "React language",
+      "Author": "Sahosoft",
+      "EnteredDate": "1997-09-08",
+      "id": 3
+    },
+    {
+      "Title": "Course r",
+      "Full_Desc": "dsaad",
+      "Sort_Desc": "kdsjflhdsjhfd,hg",
+      "Author": "shafg",
+      "EnteredDate": "2021/09/20",
+      "id": 4
+    },
+    {
+      "Title": "Course rrttt",
+      "Full_Desc": "dsaad",
+      "Sort_Desc": "kdsjflhdsjhfd,hg",
+      "Author": "shafg",
+      "EnteredDate": "2021/09/20",
+      "id": 5
+    },
+    {
+      "Title": "Reactt",
+      "Full_Desc": "bsjhdjkhasjkhdjkdash",
+      "Sort_Desc": "React language",
+      "Author": "Sahosoft",
+      "EnteredDate": "1997-09-08",
+      "id": 6
+    },
+    {
+      "Title": "Reactttt",
+      "Full_Desc": "bsjhdjkhasjkhdjkdash",
+      "Sort_Desc": "React language",
+      "Author": "Sahosoft",
+      "EnteredDate": "1997-09-08",
+      "id": 7
+    },
+    {
+      "Title": "dffdg",
+      "Full_Desc": "dvf",
+      "Sort_Desc": "dfdf",
+      "Author": "defes",
+      "EnteredDate": "89-09-1990",
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,34 @@
+<div class="container">
+
+  <form [formGroup]="newform" (ngSubmit)="onSubmit()">
+
+    <span *ngIf="datasave">{{msg}}</span>
+    <div class="formgroup">
+      <input type="text" formControlName="Title" placeholder="Title">
+    </div>
+    <div class="formgroup">
+      <input type="text" formControlName="Sort_Desc" placeholder="des">
+    </div>
+    <div class="formgroup">
+      <input type="text" formControlName="Full_Desc" placeholder="des">
+    </div>
+    <!-- <div class="formgroup">
+      <input type="file" formControlName="Image" placeholder="Choose an Image">
+
+    </div> -->
+
+    <div class="formgroup">
+      <input formControlName="EnteredDate" placeholder="EnteredDate">
+
+    </div>
+    <div class="formgroup">
+      <input type="text" formControlName="Author" placeholder="Author">
+
+    </div>
+
+    
+    <div>
+      <button type="submit" [disabled]="newform.invalid" class="btn btn-success">Add Newpost</button>
+    </div>
+  </form>
+</div>

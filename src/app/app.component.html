@@ -1,0 +1,17 @@
+<!-- <div class="container-fluid text-center">
+
+  <h3 class="text-center">Angular Application</h3>
+
+  <button class="btn btn-primary">Button</button>
+</div>
+ -->
+ <!-- <div class="container"> -->
+ <app-header></app-header>
+<app-banner  *ngIf="router.url == '/'"></app-banner><!--means these componentnts load only on home page-->
+ <app-course-featured  *ngIf="router.url == '/'"></app-course-featured>
+ <router-outlet></router-outlet>
+ <app-footer></app-footer>
+
+<!-- </div> -->
+
+
